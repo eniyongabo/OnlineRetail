@@ -1,4 +1,4 @@
-# OnlineRetailSystem
+# OnlineRetail
 ## This is a retail online system which developed by using microservices.
 ## The application have 6 service DiscoveryService, ConfigService, APIGateway, ProductService, CustomerService and OrderService
 ### To run the application, we must follow step by step below
