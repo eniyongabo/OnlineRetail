@@ -8,10 +8,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/24/2023, Wed
- **/
+
 @RunWith(SpringRunner.class)
 class UserControllerTest {
 
