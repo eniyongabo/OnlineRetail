@@ -8,10 +8,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/20/2023, Sat
- **/
+
 @Service
 public class ProductServiceImpl implements ProductService {
 
