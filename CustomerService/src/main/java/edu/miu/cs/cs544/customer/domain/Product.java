@@ -5,10 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/20/2023, Sat
- **/
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
