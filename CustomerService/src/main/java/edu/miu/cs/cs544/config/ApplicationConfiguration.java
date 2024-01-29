@@ -13,10 +13,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/18/2023, Thu
- **/
+
 @Configuration
 public class ApplicationConfiguration {
 
