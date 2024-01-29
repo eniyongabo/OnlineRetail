@@ -10,10 +10,7 @@ import java.io.IOException;
 
 import static edu.miu.cs.cs544.customer.constants.CommonConstants.CORRELATION_ID;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/24/2023, Wed
- **/
+
 @Slf4j
 @Configuration
 public class LoggingFilter implements Filter {

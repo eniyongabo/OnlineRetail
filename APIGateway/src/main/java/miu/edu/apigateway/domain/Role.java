@@ -6,10 +6,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.Data;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/22/2023, Mon
- **/
+
 @Data
 @Entity
 @Table(name = "Role")

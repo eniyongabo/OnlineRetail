@@ -11,10 +11,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/22/2023, Mon
- **/
+
 @Service
 public class JwtGeneratorImpl implements JwtGeneratorInterface {
 

@@ -5,10 +5,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/20/2023, Sat
- **/
 public interface ProductService {
 
     Product addProduct(Product product);

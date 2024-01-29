@@ -7,10 +7,6 @@ import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/22/2023, Mon
- **/
 @AllArgsConstructor
 @Data
 @Entity

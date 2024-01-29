@@ -6,10 +6,7 @@ import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/21/2023, Sun
- **/
+
 public interface AddressService {
 
     List<Address> addShippingAddress(Long customerId, Address address);

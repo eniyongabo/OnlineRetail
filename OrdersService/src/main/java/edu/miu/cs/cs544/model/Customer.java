@@ -7,10 +7,7 @@ import lombok.NoArgsConstructor;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/21/2023, Sun
- **/
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data

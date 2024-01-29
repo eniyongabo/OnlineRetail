@@ -22,10 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/22/2023, Mon
- **/
+
 @Slf4j
 @Configuration
 public class InterceptConfig implements WebFilter {

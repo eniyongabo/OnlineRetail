@@ -6,10 +6,6 @@ import jakarta.validation.constraints.NotBlank;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.validation.annotation.Validated;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/16/2023, Tue
- **/
 @ConfigurationProperties(prefix = "app")
 @Validated
 public class ApplicationProperties {

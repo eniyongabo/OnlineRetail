@@ -8,10 +8,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/23/2023, Tue
- **/
 @FeignClient(name = "${feign.customer.name}")
 public interface CustomerFeignClient {
     @GetMapping("/customer/{customerNumber}")

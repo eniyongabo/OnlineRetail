@@ -4,10 +4,7 @@ import miu.edu.apigateway.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/22/2023, Mon
- **/
+
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
     User findByUsernameAndPassword(String userName, String password);

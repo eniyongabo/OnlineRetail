@@ -6,10 +6,6 @@ import miu.edu.apigateway.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/22/2023, Mon
- **/
 @Service
 public class UserServiceImpl implements UserService {
 

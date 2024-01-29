@@ -16,10 +16,7 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/24/2023, Wed
- **/
+
 @RunWith(SpringRunner.class)
 @WebMvcTest(ProductController.class)
 class ProductControllerTest {

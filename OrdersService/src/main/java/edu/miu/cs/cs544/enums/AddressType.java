@@ -2,10 +2,7 @@ package edu.miu.cs.cs544.enums;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/21/2023, Sun
- **/
+
 
 public enum AddressType {
     BILLING_ADDRESS("BILLING_ADDRESS"),

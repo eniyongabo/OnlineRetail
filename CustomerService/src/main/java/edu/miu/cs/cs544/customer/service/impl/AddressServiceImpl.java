@@ -17,10 +17,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/21/2023, Sun
- **/
 @Service
 @Transactional
 public class AddressServiceImpl implements AddressService {
