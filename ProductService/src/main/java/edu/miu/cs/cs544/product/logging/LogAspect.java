@@ -9,10 +9,7 @@ import org.springframework.stereotype.Component;
 
 import static edu.miu.cs.cs544.product.constants.CommonConstants.CORRELATION_ID;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/24/2023, Wed
- **/
+
 @Slf4j
 @Aspect
 @Component
