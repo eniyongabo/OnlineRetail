@@ -8,10 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/18/2023, Thu
- **/
+
 @Configuration
 public class ApplicationConfiguration {
 
