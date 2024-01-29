@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/21/2023, Sun
- **/
+
 @RestController
 @RequestMapping("/customer/{customerId}/address")
 public class AddressController {
