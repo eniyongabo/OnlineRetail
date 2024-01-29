@@ -10,10 +10,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author : JOHNNGUYEN
- * @since : 5/20/2023, Sat
- **/
+
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
